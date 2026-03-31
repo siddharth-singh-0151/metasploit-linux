@@ -1,0 +1,1 @@
+This folder contains payloads used for Privesc, the actual privesc modules create binaries onto the victim machine after a connection is already established and even deletes it, hence it is a dynamic binary creation/deletion from which no file has been extracted.
